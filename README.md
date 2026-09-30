@@ -20,7 +20,7 @@
 
 Sou **Analista de Qualidade de Software (QA)**, com foco em garantir que aplicações entreguem valor real ao usuário através de testes bem planejados e execução criteriosa. Atuo em todo o ciclo de testes: da análise de requisitos ao pós-deploy, passando por testes manuais, regressivos, de integração e de performance.
 
-- 🔭 Atualmente atuando em testes de **APIs .NET** e automação com **Cypress**
+- 🔭 Atualmente atuando em testes com diferentes tecnologias, como: Robot, Cypress e Playwright
 - 🌱 Aprofundando conhecimentos em **Python** para automação e scripts de apoio a testes
 - 💡 Foco em qualidade contínua, rastreabilidade de defeitos e prevenção de regressões
 - 🧪 Testes manuais, exploratórios, regressivos e de integração
