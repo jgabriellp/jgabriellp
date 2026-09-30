@@ -31,6 +31,7 @@ Sou **Analista de Qualidade de Software (QA)**, com foco em garantir que aplica�
 ## 🛠️ Tech Stack
 
 ### 🧪 Testes & Qualidade
+
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -41,6 +42,7 @@ Sou **Analista de Qualidade de Software (QA)**, com foco em garantir que aplica�
 </p>
 
 ### 💻 Linguagens & APIs
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,6 +51,7 @@ Sou **Analista de Qualidade de Software (QA)**, com foco em garantir que aplica�
 </p>
 
 ### 🗄️ Banco de Dados
+
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -56,6 +59,7 @@ Sou **Analista de Qualidade de Software (QA)**, com foco em garantir que aplica�
 </p>
 
 ### 🔧 Ferramentas & Versionamento
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -78,7 +82,7 @@ Sou **Analista de Qualidade de Software (QA)**, com foco em garantir que aplica�
 ```
 ✔  Testes Manuais            ✔  Testes de Regressão
 ✔  Testes de Integração      ✔  Testes de API (REST / .NET)
-✔  Testes de Performance     ✔  Automação com Cypress
+✔  Testes de Performance     ✔  Automação com Cypress / Robot-Framework / Playwright
 ✔  Scripts de apoio (Python) ✔  Validação em Banco de Dados (SQL)
 ✔  Documentação de Casos     ✔  Rastreabilidade de Bugs
 ```
